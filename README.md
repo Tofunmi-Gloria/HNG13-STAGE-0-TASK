@@ -22,13 +22,4 @@ A simple RESTful API that returns my profile information and a random cat fact f
 "fact": "Cats sleep for 70% of their lives."
 }
 
-#### 3. Push to GitHub
-```bash
-git init
-git add .
-git commit -m "Stage 0 Backend Task completed"
-git branch -M main
-git remote add origin <your_repo_url>
-git push -u origin main
-
 
